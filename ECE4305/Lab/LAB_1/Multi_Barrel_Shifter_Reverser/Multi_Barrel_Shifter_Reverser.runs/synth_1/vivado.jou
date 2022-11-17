@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Nov 16 13:39:15 2022
+# Process ID: 15128
+# Current directory: D:/Documents/Vivado/ECE4305/Lab/LAB_1/Multi_Barrel_Shifter_Reverser/Multi_Barrel_Shifter_Reverser.runs/synth_1
+# Command line: vivado.exe -log multi_barrel_shifter_reverser.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source multi_barrel_shifter_reverser.tcl
+# Log file: D:/Documents/Vivado/ECE4305/Lab/LAB_1/Multi_Barrel_Shifter_Reverser/Multi_Barrel_Shifter_Reverser.runs/synth_1/multi_barrel_shifter_reverser.vds
+# Journal file: D:/Documents/Vivado/ECE4305/Lab/LAB_1/Multi_Barrel_Shifter_Reverser/Multi_Barrel_Shifter_Reverser.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source multi_barrel_shifter_reverser.tcl -notrace

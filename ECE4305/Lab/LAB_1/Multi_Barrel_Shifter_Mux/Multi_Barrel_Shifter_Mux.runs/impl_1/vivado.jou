@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Nov 16 13:36:17 2022
+# Process ID: 5280
+# Current directory: D:/Documents/Vivado/ECE4305/Lab/LAB_1/Multi_Barrel_Shifter_Mux/Multi_Barrel_Shifter_Mux.runs/impl_1
+# Command line: vivado.exe -log multi_barrel_shifter_mux.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source multi_barrel_shifter_mux.tcl -notrace
+# Log file: D:/Documents/Vivado/ECE4305/Lab/LAB_1/Multi_Barrel_Shifter_Mux/Multi_Barrel_Shifter_Mux.runs/impl_1/multi_barrel_shifter_mux.vdi
+# Journal file: D:/Documents/Vivado/ECE4305/Lab/LAB_1/Multi_Barrel_Shifter_Mux/Multi_Barrel_Shifter_Mux.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source multi_barrel_shifter_mux.tcl -notrace
